@@ -1,0 +1,4 @@
+Python 3 is required.
+fbchat module should be installed.
+
+Command : pip3 install fbchat
